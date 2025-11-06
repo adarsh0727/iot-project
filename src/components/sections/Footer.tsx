@@ -74,15 +74,15 @@ const Footer = () => {
                 <div className="flex flex-col gap-2 text-sm md:text-base ">
                   <p className="flex items-center gap-2">
                     <FaLocationDot />
-                    Dudhpati, Bhaktapur
+                    IIIT Surat , Gujarat
                   </p>
                   <p className="flex items-center gap-2">
                     <FaPhone />
-                    +977 9800000000
+                    +91 6264703445
                   </p>
                   <p className="flex items-center gap-2">
                     <IoMail />
-                    info@gov-certify.com
+                    rathoreaditi600@gmail.com
                   </p>
                 </div>
               </ul>
@@ -102,10 +102,10 @@ const Footer = () => {
           {/* Bottom */}
           <div className="border-t border-t-border/70 flex items-center justify-between text-center py-8 text-xs md:text-sm max-sm:flex-col max-sm:gap-2">
             <p>
-              Copyright &copy; 2024 Diwash Bhattarai | Pravakar Rijal | Manish
-              Dhungana | Prakash Pandey
+              Copyright &copy; 2024 Aditi Rathore | Adarsh Singh | Prateek Jaiswal
+               
             </p>
-            <p>All Rights Reserved. Dudhpati, Bhaktapur</p>
+            <p>All Rights Reserved. IIIT Surat, Gujarat</p>
           </div>
         </Container>
       </div>
